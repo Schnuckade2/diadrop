@@ -21,8 +21,8 @@ DiaDrop is built to simplify the process of turning ideas into clear visuals. It
 
 ## License
 
-DiaDrop is released under the [MIT License](LICENSE).
+DiaDrop is released under our own License (-> license.txt)
 
 ---
 
-*Feel free to expand this README with usage instructions, example images, or contact info if you wish!*
+
