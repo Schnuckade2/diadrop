@@ -21,7 +21,7 @@ DiaDrop is built to simplify the process of turning ideas into clear visuals. It
 
 ## License
 
-DiaDrop is released under our own License (-> license.txt)
+DiaDrop is released under our [Lazy Loop Standard License](https://github.com/Schnuckade2/diadrop/license.txt)
 
 ---
 
