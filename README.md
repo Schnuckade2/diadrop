@@ -17,6 +17,7 @@
 ## Getting Started
 
 - **Download:** Get the latest installer from the [releases page](https://github.com/Schnuckade2/diadrop/releases).
+- **Wiki:** Go to the Get Started [Wiki](https://github.com/Schnuckade2/DiaDrop/wiki/Get-Started-with-DiaDrop) to see, how you can create your first DiaGram
 - **Installation:** Simple setup process—start creating right away.
 
 ## Why DiaDrop?
