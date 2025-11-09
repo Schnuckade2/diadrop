@@ -2,6 +2,10 @@
 
 **DiaDrop** is a powerful and user-friendly tool for creating flow diagrams, charts, presentations, and more. Designed for flexibility and speed, DiaDrop helps you visualize your ideas in an intuitive way—whether you're working on projects, brainstorming, teaching, or presenting concepts to others.
 
+
+<img width="222" height="222" alt="icon" src="https://github.com/user-attachments/assets/d1aa04bd-c0a8-49a0-bcff-e811a555d151" />
+
+
 ## Features
 
 - **Easy Diagram Creation:** Design attractive flow charts and diagrams in minutes.
